@@ -1,0 +1,12 @@
+{
+    "Usuarios": [
+        {
+            "id": 1,
+            "dni": "12345678",
+            "password_hash": "pbkdf2:sha256:600000$O3RJe0WkxM1EhwKG$d7153a65eed5dbec8007c8ba421c896673153c50aa5d4a42a56771663b9e5d8d",
+            "nombre": "Juan",
+            "apellido": "Perez",
+            "estado": "autorizado"
+        }
+    ]
+}

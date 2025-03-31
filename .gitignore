@@ -1,0 +1,6 @@
+venv
+node_modules
+logs/*.log*
+build
+*.zip
+__pycache__
